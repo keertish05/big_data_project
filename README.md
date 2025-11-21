@@ -58,6 +58,8 @@ Pipeline Steps:
 5. Dashboard output: Hospital stress index map + alert status (Normal / Warning / Critical)
 
 PS-1 Outbreak Signals  → PS-2 Risk Groups  → PS-3 System Load →PS-4 Hospital Alerts
+
+
 Developed by: Keerti Shekhawat,Rupali Goyal,Taniska Nagal 
 Big Data Project – 2025
 
