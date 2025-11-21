@@ -6,7 +6,7 @@ PS-3 → Compare outbreak vs healthcare load
 PS-4 → Trigger hospital resource alerts  
 
 ## PS-1 — Early Outbreak Detection
-Dataset:
+Dataset: 
 • streaming vitals (JSON)
 • medical test results (CSV/JSON)
 • demographics (CSV)
